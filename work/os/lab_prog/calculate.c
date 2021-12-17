@@ -3,6 +3,8 @@
 #include <string.h> 
 #include "calculate.h"
 
+///ffff
+
 float
 Calculate(float Numeral, char Operation[4])
 {
